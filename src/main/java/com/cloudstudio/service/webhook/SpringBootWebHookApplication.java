@@ -1,4 +1,4 @@
-package com.cloudstudio.service.springbootfirstservice;
+package com.cloudstudio.service.webhook;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
